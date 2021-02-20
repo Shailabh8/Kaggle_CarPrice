@@ -8,3 +8,6 @@ Random Forest Regressor
 
 ## Hyperparameter Tuning
 RandomSearch Cross Validation
+
+## Deployement Platform Used 
+Heroku
